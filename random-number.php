@@ -1,5 +1,5 @@
 <?php
-$random = rand(1, 3);
+$random = rand(1, 75);
 ?>
 <!DOCTYPE html>
 <html lang="ja">
